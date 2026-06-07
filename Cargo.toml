@@ -1,0 +1,11 @@
+[package]
+name = "b-tree"
+version = "0.1.0"
+edition = "2021"
+description = "B-tree implementation with insertion, deletion, search, and range queries"
+license = "MIT"
+repository = "https://github.com/SuperInstance/b-tree"
+keywords = ["btree", "database", "data-structure", "index"]
+categories = ["data-structures", "algorithms"]
+
+[dependencies]
